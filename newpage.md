@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "new page"
+title: new page
 permalink: /newpage
 ---
 
