@@ -1,5 +1,4 @@
 ---
-layout: page
 title: new page
 permalink: /newpage
 ---
